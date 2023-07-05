@@ -21,8 +21,8 @@ Soy Desarrollador con experiencia en Arquitectura, Diseño 3d, Ruby on Rails. Ad
 
 ### Mis redes sociales
 
-[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/twitter.png' alt='Twitter' width='24' style='width:24px; margin-right: 10px;'/>](https://twitter.com/lgzarturo)
-[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/instagram.png' alt='instagram' width='24' style='width:24px; margin-right: 10px;'/>](https://www.instagram.com/lgzarturo/)
+[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/twitter.png' alt='Twitter' width='24' style='width:24px; margin-right: 10px;'/>](https://twitter.com/master26)
+[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/instagram.png' alt='instagram' width='24' style='width:24px; margin-right: 10px;'/>](https://www.instagram.com/jebmaster2600/)
 [<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/facebook.png' alt='Facebook' width='24' style='width:24px; margin-right: 10px;'/>](https://www.facebook.com/master2600)
 
 
@@ -32,7 +32,7 @@ Soy Desarrollador con experiencia en Arquitectura, Diseño 3d, Ruby on Rails. Ad
 
 Listado de tecnologías que uso para desarrollar diversos tipos proyectos.
 
-Git, Html 5, Css 3, jquery, PostgreSQL
+Git, Html 5, Css 3, jquery, Bootstrap, PostgreSQL
 
 ### 🚀 API y servicios
 
