@@ -9,16 +9,13 @@ Soy Desarrollador con experiencia en Arquitectura, Diseño 3d, Ruby on Rails. Ad
 
 ### Me dedico a desarrollar aplicaciones Web
 
-
-- 🤺 [Mi perfil profesional] lo puedes encontrar en [https://https://www.linkedin.com/in/juan-carlos-e-0448ab34/] y en https://www.juanescudero.x10.mx/
-
+- 🤺 [Mi perfil profesional] lo puedes encontrar en [https://www.linkedin.com/in/juan-carlos-e-0448ab34/] y en https://www.juanescudero.x10.mx/
 
 ---
 
 ### Mis sitios
 
-- 🥷🏻 Perfil con mi experiencia profesional: [linkedin.com]()
-
+- 🥷🏻 Perfil con mi experiencia profesional: [linkedin.com](https://www.linkedin.com/in/juan-carlos-e-0448ab34/)
 
 ---
 
