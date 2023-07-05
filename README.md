@@ -10,7 +10,7 @@ Soy Desarrollador con experiencia en Arquitectura, Diseño 3d, Ruby on Rails. Ad
 ### Me dedico a desarrollar aplicaciones Web
 
 
-- 🤺 [Mi perfil profesional](https://developer.arthurolg.com) lo puedes encontrar en [arthurolg.com](https://arthurolg.com) y en [LinkedIn](https://www.linkedin.com/in/lgzarturo).
+- 🤺 [Mi perfil profesional](https://developer.arthurolg.com) lo puedes encontrar en (https://arthurolg.com) y en [LinkedIn](https://www.linkedin.com/in/lgzarturo).
 
 
 ---
@@ -79,6 +79,3 @@ Cada día me enfoco en aprender más sobre: marketing digital, gestión de redes
 
 ### GitHub Stats
 
-
-
-<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="eat sleep code repeat" width="200" style="float: right; width: 200px" align="right" />
