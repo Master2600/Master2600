@@ -9,7 +9,7 @@ Soy Desarrollador con experiencia en Arquitectura, Diseño 3d, Ruby on Rails. Ad
 
 ### Me dedico a desarrollar aplicaciones Web
 
-- 🤺 [Mi perfil profesional] lo puedes encontrar en [https://www.linkedin.com/in/juan-carlos-e-0448ab34/] y en https://www.juanescudero.x10.mx/
+- 🤺 [Mi perfil profesional] lo puedes encontrar en [linkedin.com](https://www.linkedin.com/in/juan-carlos-e-0448ab34/) y en https://www.juanescudero.x10.mx/
 
 ---
 
@@ -21,10 +21,9 @@ Soy Desarrollador con experiencia en Arquitectura, Diseño 3d, Ruby on Rails. Ad
 
 ### Mis redes sociales
 
-[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/linkedin.png' alt='LinkedIn' width='24' style='width:24px; margin-right: 10px;'/>](https://www.linkedin.com/in/lgzarturo/)
 [<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/twitter.png' alt='Twitter' width='24' style='width:24px; margin-right: 10px;'/>](https://twitter.com/lgzarturo)
 [<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/instagram.png' alt='instagram' width='24' style='width:24px; margin-right: 10px;'/>](https://www.instagram.com/lgzarturo/)
-[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/facebook.png' alt='Facebook' width='24' style='width:24px; margin-right: 10px;'/>](https://www.facebook.com/lgzarturo)
+[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/facebook.png' alt='Facebook' width='24' style='width:24px; margin-right: 10px;'/>](https://www.facebook.com/master2600)
 
 
 ---
